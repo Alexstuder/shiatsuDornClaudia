@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html  lang="de">
+<head>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:image" content="/var/m_8/80/807/254720/11507894-02E41917.jpg" />
+<meta property="og:title" content="Kontakt" />
+<meta name="last-modified" content="2022-09-12 10:43:29" />
+<meta name="generator" content="Swisscom HomepageTool" />
+<meta name="robots" content="index,follow" />
+<meta property="og:url" content="https://shiatsu-dorn-straub.ch/kontakt" />	<title>Kontakt - Meine Webseite</title>	<link href="https://templates/resellers/7/hptfav-aab32.png?v=1662972879" rel="SHORTCUT ICON" type="image/x-icon" />
+<link href="css/extra-fonts.css@v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="css/widgets/concat_widget.min.css@v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="templates/creator/m_2/2b/2b2/145/css/main.min.css@v=1617625278" media="screen" rel="stylesheet" type="text/css" id="template-grid" />
+<link href="templates/creator/m_2/2b/2b2/145/css/style.min.css@v=1617625278" media="screen" rel="stylesheet" type="text/css" id="template-skin" />
+<link href="kontakt" rel="canonical" />		
+
+	
+            <script>
+                jQuery(window).load(function(){
+                    if(navigator.userAgent.indexOf('Safari') != -1
+                    && navigator.userAgent.indexOf('Chrome') == -1
+                    && navigator.userAgent.indexOf('Edge') == -1
+                    && $('.editing-mode').length == 0){
+                        $('img').each(function(){
+                            if($(this).height() == 0){
+                                var img = new Image();
+                                img.src = $(this).attr('src');
+                                var parent = $(this).parent();
+                                $(this).detach();
+                                parent.append(img);
+                            }
+                        });
+                    }
+                });
+            </script>
+	
+	<link type="text/css" href="css/skeleton.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Arvo" rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="templates/creator/m_2/2b/2b2/145/assets/wp-menu.js@v=1617625278"></script>
+<script type="text/javascript" src="templates/creator/m_2/2b/2b2/145/assets/respond.min.js@v=1617625278"></script>
+<script type="text/javascript" src="templates/creator/m_2/2b/2b2/145/assets/slide.js@v=1617625278"></script>
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+		//label of menu button on mobile version
+		var config = {
+			navigation: "Navigation"
+		};
+	</script>
+<style type="text/css" media="screen">
+<!--
+body{  background-image: none; background-color: rgba(0, 0, 0, 0.03); background-size: auto; }
+ #content { font-family: Tahoma; }
+
+-->
+</style></head>
+<body>
+  <!-- Panel -->
+
+  <div id="fixed_mobile_action">
+    <div id="toppanel" class="ios5">
+        <!-- The tab on top --> 
+      <div class="tab">
+        <ul class="mobile_action">
+          <li class="left">&nbsp;</li>
+          <li id="toggle">
+            <label id="open" class="open">Kontaktieren Sie uns</label>
+            <label id="close" style="display: none;" class="close">Fenster schließen</label>     
+          </li>
+          <li class="right">&nbsp;</li>
+        </ul> 
+      </div> <!-- / top -->
+
+      <div id="panel">
+        <div class="panel-content">
+          <div class="icon">
+            <a href="tel:+41796925373" class="click-phone">Rufen Sie uns an!</a>
+          </div>
+          <div class="icon">
+            <a href="mailto:claudia.straub@gmx.ch" class="click-mail">Senden Sie uns eine E-Mail</a>
+          </div>
+          <div class="icon">
+            <a href="kontakt.shtml" class="click-map">Auf der Karte anzeigen</a>
+          </div>
+
+        </div>
+    </div> 
+
+
+      
+    </div> <!--panel -->
+  </div>
+  <div class="bg-top  skinBg"></div>
+  <div class="sk-container skinAlign header">
+      <div class="logo-container three columns" ><a href="index.html" class="logo"><img src="var/m_8/80/807/254720/11509637-new_image1637697704.w240.h100.png@1662972879" alt="Meine Webseite" id="siteMainDynLogo" data-test="123" /></a> <script type="application/ld+json">
+    				{
+				      "@context": "http://schema.org",
+				      "@type": "LocalBusiness",
+				      "url": "http://shiatsu-dorn-straub.ch",
+				      "logo": "/var/m_8/80/807/254720/11509637-new_image1637697704.h100.png?1662972879",
+					  "image": "/var/m_8/80/807/254720/11509637-new_image1637697704.h100.png?1662972879",
+					  "name":"$this->_site->SITENAME"
+				    }
+					</script></div>
+      <nav class="nav thirteen columns ">
+        <ul id="nav" class="menu_count_6 wp-menu"><li id="menu_873052" class="first  lb_873052 menu-item-home"><a href="index.html" target="_self" title="Shiatsu und Dorn" data-pageid="873052" data-act="canvas" data-itemid="927539" data-cat="0">Shiatsu und Dorn</a> </li><li id="menu_900127" class=" lb_900127 menu-item-toppage"><a href="impressionen.shtml" target="_self" title="Behandlung und Angebot" data-pageid="900127" data-act="canvas" data-itemid="952889" data-cat="0">Behandlung und Angebot</a> </li><li id="menu_1010606" class=" lb_1010606 menu-item-toppage"><a href="preise.shtml" target="_self" title="Preise" data-pageid="1010606" data-act="canvas" data-itemid="1063408" data-cat="0">Preise</a> </li><li id="menu_900128" class=" lb_900128 menu-item-toppage"><a href="uber-uns.shtml" target="_self" title="Über mich" data-pageid="900128" data-act="canvas" data-itemid="952890" data-cat="0">Über mich</a> </li><li id="menu_900129" class="current  lb_900129 menu-item-toppage"><a href="kontakt.shtml" target="_self" title="Kontakt" data-pageid="900129" data-act="canvas" data-itemid="952891" data-cat="0">Kontakt</a> </li></ul> 
+      </nav>
+
+    <!-- START HEADER IMAGE -->
+      <div id="header-image" class="sixteen columns ">
+        <div class="headerimage">
+          <div id="header-image-wrapper-1"><img src="var/m_8/80/807/254720/11507894-02E41917.jpg" id="siteMainDynHeaderImage1" style="border:0px" /></div>        </div>
+         
+      </div>
+      <!-- END HEADER IMAGE -->
+      <div id="content" class="sixteen columns">
+        <!-- START CONTENT -->
+        <div class="content-data"> 
+        	<div id="searchResults"></div>
+          <div id="wp_content_data"><div class="vertical" style="width: 100%;"><div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-11800281" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<div style="text-align: center;"><br></div><ul><li><span style="font-size:28px;"></span><span style="font-size:24px;">Termine nach telefonischer Vereinbarung oder per mail (siehe untenstehendes Formular)</span><br></li></ul><div><span style="font-size:24px;"></span><br></div><ul><li><span style="font-size:24px;">Hausbesuche nach Absprache möglich</span></li></ul><div><span style="font-size:24px;"></span><br></div><ul><li><span style="font-size:24px;">Besucherparkplätze sind vorhanden</span><br></li></ul><div><br></div><div><br></div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="horizontal clearfix" style=""><div class="diy-splitter-inner clearfix"><div class="vertical" style="width: 50%;"><div class="widget-wrapper widget-element form-manager diy-resizable ">
+
+		<div id="widget-id-10179461" 
+		class="widget-body " style="">
+		
+<div id="form_content_14144929">
+	<p class="diy-form-manager-name">
+			</p>
+	<p class="diy-form-manager-description">
+			</p>
+	<p class="help-block">
+			</p>
+	<div class="formManagerFront"><form id="form_manager_14144929" enctype="application/x-www-form-urlencoded" WID="14144929" class="captcha_form_14144929" action="https://shiatsu-dorn-straub.ch/wforms/formmanager/submit" method="post"><div class="clearfix"><div>
+<ul class="form_manager_ul clearfix">
+<li id="field_0-element-14144929" class="fm-textbox"><label for="field_0-14144929" class="optional">Name</label>
+<span>
+<input type="text" name="field_0" id="field_0-14144929" value="" maxlength="255" class="fm-el-textbox" placeholder="Max Mustermann"></span></li>
+<li id="field_1-element-14144929" class="fm-email"><label for="field_1-14144929" class="optional">Mail-Adresse</label>
+<span>
+<input type="email"  name="field_1" id="field_1-14144929" value="" maxlength="255" class="fm-el-email" placeholder="beispiel@beispiel.com" /></span></li>
+<li id="field_2-element-14144929" class="fm-textarea"><label for="field_2-14144929" class="optional">Nachricht</label>
+<span>
+<textarea name="field_2" id="field_2-14144929" class="fm-el-textarea" placeholder="Lorem Ipsum" cols="40" rows="6"></textarea></span></li>
+<li id="field_4-element-14144929" class="fm-number"><label for="field_4-14144929" class="optional">Telefon / Handy</label>
+<span>
+<input type="text" name="field_4" id="field_4-14144929" value="" maxlength="255" class="fm-el-number" placeholder="+1-800-123456"></span></li></ul>
+<div>
+<input type="hidden" name="wid" value="10179461" id="wid"></div>
+<div>
+<input type="hidden" name="LANG" value="de" id="LANG"></div>
+<div class="clearfix">
+<input type="submit" name="send_14144929" id="send_14144929" value="Senden" class="buttons g-recaptcha" data-sitekey="6LeYxo4UAAAAAHrKdOqHLQTNNeIxggkS0jv828Ph"></div></div></div></form></div>			<div class="has-captcha">
+			Diese Website wird durch reCAPTCHA geschützt und die Google-			<a href="https://policies.google.com/privacy" target="_blank">Datenschutzrichtlinie</a> und			<a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> gelten.		</div>
+	</div>
+
+	</div>
+</div>
+
+
+</div><div class="vertical" style="width: 50%;"><div class="widget-wrapper widget-element google-maps diy-resizable ">
+
+		<div id="widget-id-10179463" 
+		class="widget-body " style="">
+			<div>
+    
+        <a id="custom_14144932" href="kontakt.shtml#map_big_14144932">Ganze Karte anzeigen</a>
+        <a style="margin: 10px" href="https://maps.google.com/maps?daddr=R%C3%BCchligweg%2B47%2BRiehen" target="_blank">Route anzeigen</a>
+    
+	</div>
+<div id="map_canvas_14144932"></div>
+<div id="map_big_14144932" style="display:none;width:100%; height:600px;"></div>
+
+
+	</div>
+</div>
+
+
+</div></div></div><div class="clearfix"></div></div></div>        </div>  
+        <!-- END CONTENT -->
+      </div>
+
+      <div class="footer sixteen columns">
+        <div class="mirrormenu"><ul id="mirror-menu-module"><li id="mirror_menu_td_873052" class="mirror_menu"><a href="index.html" target="_self" title="Shiatsu und Dorn" data-pageid="873052" data-act="canvas" data-itemid="927539" data-cat="0">Shiatsu und Dorn</a></li><li id="mirror_menu_td_900127" class="mirror_menu"><a href="impressionen.shtml" target="_self" title="Behandlung und Angebot" data-pageid="900127" data-act="canvas" data-itemid="952889" data-cat="0">Behandlung und Angebot</a></li><li id="mirror_menu_td_1010606" class="mirror_menu"><a href="preise.shtml" target="_self" title="Preise" data-pageid="1010606" data-act="canvas" data-itemid="1063408" data-cat="0">Preise</a></li><li id="mirror_menu_td_900128" class="mirror_menu"><a href="uber-uns.shtml" target="_self" title="Über mich" data-pageid="900128" data-act="canvas" data-itemid="952890" data-cat="0">Über mich</a></li><li id="mirror_menu_td_900129" class="mirror_menu"><a href="kontakt.shtml" target="_self" title="Kontakt" data-pageid="900129" data-act="canvas" data-itemid="952891" data-cat="0">Kontakt</a></li></ul></div>
+        <div class="clearfix">
+          <div class="footer-text"><p><a class='policies' href='cookie-de'>Richtlinien zu Cookies</a>  </p>
+</div>
+        </div>
+        <div class="languages">
+                  </div>
+      </div>
+  </div>
+		
+									    <div id="cookies_policy" class="cookie-container">
+				<div class="cookie-wrapper">
+			        <div class="cookie-policy-title">Cookie-Richtlinie</div>   
+			        <div class="cookie-statement">Ein Cookie ist eine kleine Textdatei, die eine Website auf Ihrem Computer oder Mobilgerät speichert, wenn Sie die Seite besuchen.</br>
+Wir verwenden proprietäre und Drittanbieter-Cookies, um Ihr Erlebnis sowie unsere Dienste zu verbessern und analysieren hierfür die Nutzung unserer Website.</br>
+Indem Sie auf "AKZEPTIEREN" klicken oder auf dieser Seite navigieren, akzeptieren Sie die Platzierung und Nutzung von Cookies für diese Zwecke.</br>
+Um mehr über unsere Cookies zu erfahren, besuchen Sie bitte unsere  <a id="opener" href="kontakt.shtml#">Cookie-Richtlinie</a>
+			        </div>
+			        		        	
+						<div class="cookie-consent">
+							<div class="cookie-options">						
+								<div class="js-cookie-adjust">									        
+									<input type="checkbox" id="necessary" checked="checked" disabled="disabled"></input>
+									<label for="necessary">Notwendige Cookies</label>
+									<div class="cookie-statement-adjust">Diese Cookies sind notwendig, um auf der Website surfen und ihre Funktionen nutzen zu können. Ohne diese Cookies können von Ihnen gewünschte Dienste nicht angeboten werden. </div>
+									<input type="checkbox" id="others"  ></input>
+									<label for="others">Optionale Cookies</label>
+									<div class="cookie-statement-adjust">Diese Cookies sind tendenziell weniger wichtig für die Funktionsfähigkeit der Website. Sie ermöglichen der Seite, sich Ihre Entscheidungen zu merken und Ihnen so bessere Funktionen sowie individuelle Features anbieten zu können. Sie werden eventuell auch dazu verwendet, um Ihre Zugriffe auf unsere Seiten zu messen. </div>
+								</div>
+																<button class="adjust-cookie-button" onclick="adjustCookies('STANDARDEINSTELLUNGEN VERWENDEN')">COOKIE-EINSTELLUNGEN ANPASSEN								</button>
+								<button class="cookie-button" onclick="setCookiePolicy()">AKZEPTIEREN</button>     			
+							</div>
+						</div>
+								        
+			    </div>  
+		    </div>	
+		    <div class="cookie-text-wrapper js-cookie-text" title="Cookie-Richtlinie">
+		       <div class="cookie-text">
+			       	<div class="cookie-close js-cookie-close">&times;</div>
+			       	<div class="cookie-text-content">
+			       					       	</div>
+		       </div>
+            </div>
+
+                                
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "LocalBusiness",
+	"url": "https://shiatsu-dorn-straub.ch",
+	"name": "Meine Webseite",
+	"email": "claudia.straub@gmx.ch",
+	"address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "",
+	    "addressRegion": "",
+	    "addressCountry":"",
+	    "postalCode":"",
+	    "streetAddress": ""
+	                },
+	"telephone": "+41796925373",
+	"fax": "",
+	"image": "/var/m_8/80/807/254720/11509637-new_image1637697704.h100.png?1662972879"
+}
+</script>
+
+	
+<script type="text/javascript">
+    //<!--
+    var sid = 254720;    //-->
+</script>
+<script type="text/javascript" src="js/bundles/front_bundle.min.js@v=7.3.44996.1"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit&amp;v=7.3.44996.1"></script>
+<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/localization/messages_de.js?v=7.3.44996.1"></script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function(){efu.widgets.inlineJs('formManager',{"CONTACT_FORM_ID":"form_manager_14144929","COMPANY":"swisscom","SUBMIT_TRACK_PAGE":"","THANKYOU_MSG":"Herzlichen Dank f\u00fcr Ihre Nachricht. ","WID":"14144929","CAPTCHA_ID":"14144929","CLOSE":"Formular schlie\u00dfen","SHOW_HIDE_FORM_BUTTON":"Kontaktieren Sie uns","NAME":"","REQUIRED_MESSAGE":"Der Wert ist erforderlich","EMAIL_MESSAGE":"E-Mail Adresse ist ung\u00fcltig","NUMBER_MESSAGE":"Der Wert ist erforderlich","CHECKBOX_REQUIRED_MESSAGE":"Markieren Sie mindestens ein Kontrollk\u00e4stchen","LANG_PLEASE_SELECT":"W\u00e4hlen Sie","FM_APPENDHTML":"","FILE_VALUE":"","FILE_SIZE_LIMIT":"4","FILE_SIZE_LIMIT_ERROR":"Die Dateigr\u00f6\u00dfe \u00fcbersteigt das zugelassene Limit 4 MB, laden Sie eine kleinere Datei hoch"})});    //-->
+</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_p-zuvuaG_2EVxW6IltTZcmQsg-PyIoY"></script>
+<script type="text/javascript" src="js/cookies_policy.min.js@v=7.3.44996.1"></script><script type="text/javascript">
+    //<!--
+    jQuery(function($) {var options = {
+	addressAr: [{"id":"loc_2","address":"Rüchligweg 47 Riehen","lat":47.5722534,"lng":7.637983200000001}],
+	zoom: 17,
+	isCenterDefined: 1,
+	center: [47.5722534, 7.637983200000001],
+	widgetId: 14144932}
+var Nwidth=$(window).width();
+$('#map_big_14144932').css('width', Nwidth-70);
+
+var width = $('#map_canvas_14144932').width();
+if (!width || 0 == parseInt(width)) {
+	efu.mediator().on("dc_event",  efu.w.gmap, ['map_canvas_14144932', options]);
+} else {
+	efu.w.gmap('map_canvas_14144932', options);
+}
+efu.mediator().on("rotate",  efu.w.gmap, ['map_canvas_14144932', options]);
+
+var bigGmapLoaded = [];
+
+// Init Full Map Code
+$("#custom_14144932").fancybox(
+	{
+		afterShow: function() {
+			if (typeof(bigGmapLoaded[ 14144932 ]) != 'undefined') return;
+			efu.w.gmap('map_big_14144932', options);
+			bigGmapLoaded[ 14144932 ] = true;
+				
+		},
+		width:"800px"
+	}
+);
+$(window).resize(function(event) {	
+
+	var Nwidth=$(window).width();;
+	$('#map_big_14144932').css('width', Nwidth-70);
+
+
+});});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	var gaSettings = {
+	  siteOwnerTrackingCode: false,
+		resellerTrackingCode: false,
+		resellerTrackerName: 'resellerTracker',
+		siteOwnerTrackerName: 'siteOwnerTracker'
+	};	
+  
+ 
+  
+      gaSettings.resellerTrackingCode = true;
+        ga('create', 'UA-65453061-1', 'auto', {'name': gaSettings.resellerTrackerName});  
+    ga(gaSettings.resellerTrackerName+'.send', 'pageview');
+
+     
+
+    //-->
+</script>
+</body>
+</html>

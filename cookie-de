@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html  lang="de">
+<head>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:image" content="/var/m_8/80/807/254720/11507894-02E41917.jpg" />
+<meta property="og:title" content="Richtlinien zu Cookies" />
+<meta name="last-modified" content="2022-09-12 10:43:29" />
+<meta name="generator" content="Swisscom HomepageTool" />
+<meta name="robots" content="index,follow" />
+<meta property="og:url" content="https://www.shiatsu-dorn-straub.ch/cookie-de" />	<title>Richtlinien zu Cookies - Meine Webseite</title>	<link href="https://templates/resellers/7/hptfav-aab32.png?v=1663018338" rel="SHORTCUT ICON" type="image/x-icon" />
+<link href="css/extra-fonts.css@v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="css/widgets/concat_widget.min.css@v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="templates/creator/m_2/2b/2b2/145/css/main.min.css@v=1617625278" media="screen" rel="stylesheet" type="text/css" id="template-grid" />
+<link href="templates/creator/m_2/2b/2b2/145/css/style.min.css@v=1617625278" media="screen" rel="stylesheet" type="text/css" id="template-skin" />
+<link href="https://www.shiatsu-dorn-straub.ch/cookie-de" rel="canonical" />		
+
+	
+            <script>
+                jQuery(window).load(function(){
+                    if(navigator.userAgent.indexOf('Safari') != -1
+                    && navigator.userAgent.indexOf('Chrome') == -1
+                    && navigator.userAgent.indexOf('Edge') == -1
+                    && $('.editing-mode').length == 0){
+                        $('img').each(function(){
+                            if($(this).height() == 0){
+                                var img = new Image();
+                                img.src = $(this).attr('src');
+                                var parent = $(this).parent();
+                                $(this).detach();
+                                parent.append(img);
+                            }
+                        });
+                    }
+                });
+            </script>
+	
+	<link type="text/css" href="css/skeleton.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Arvo" rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="templates/creator/m_2/2b/2b2/145/assets/wp-menu.js@v=1617625278"></script>
+<script type="text/javascript" src="templates/creator/m_2/2b/2b2/145/assets/respond.min.js@v=1617625278"></script>
+<script type="text/javascript" src="templates/creator/m_2/2b/2b2/145/assets/slide.js@v=1617625278"></script>
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+		//label of menu button on mobile version
+		var config = {
+			navigation: "Navigation"
+		};
+	</script>
+<style type="text/css" media="screen">
+<!--
+body{  background-image: none; background-color: rgba(0, 0, 0, 0.03); background-size: auto; }
+ #content { font-family: Tahoma; }
+
+-->
+</style></head>
+<body>
+  <!-- Panel -->
+
+  <div id="fixed_mobile_action">
+    <div id="toppanel" class="ios5">
+        <!-- The tab on top --> 
+      <div class="tab">
+        <ul class="mobile_action">
+          <li class="left">&nbsp;</li>
+          <li id="toggle">
+            <label id="open" class="open">Kontaktieren Sie uns</label>
+            <label id="close" style="display: none;" class="close">Fenster schließen</label>     
+          </li>
+          <li class="right">&nbsp;</li>
+        </ul> 
+      </div> <!-- / top -->
+
+      <div id="panel">
+        <div class="panel-content">
+          <div class="icon">
+            <a href="tel:+41796925373" class="click-phone">Rufen Sie uns an!</a>
+          </div>
+          <div class="icon">
+            <a href="mailto:claudia.straub@gmx.ch" class="click-mail">Senden Sie uns eine E-Mail</a>
+          </div>
+          <div class="icon">
+            <a href="cookie-de" class="click-map">Auf der Karte anzeigen</a>
+          </div>
+
+        </div>
+    </div> 
+
+
+      
+    </div> <!--panel -->
+  </div>
+  <div class="bg-top  skinBg"></div>
+  <div class="sk-container skinAlign header">
+      <div class="logo-container three columns" ><a href="index.html" class="logo"><img src="var/m_8/80/807/254720/11509637-new_image1637697704.w240.h100.png@1663018338" alt="Meine Webseite" id="siteMainDynLogo" data-test="123" /></a> <script type="application/ld+json">
+    				{
+				      "@context": "http://schema.org",
+				      "@type": "LocalBusiness",
+				      "url": "http://www.shiatsu-dorn-straub.ch",
+				      "logo": "/var/m_8/80/807/254720/11509637-new_image1637697704.h100.png?1663018338",
+					  "image": "/var/m_8/80/807/254720/11509637-new_image1637697704.h100.png?1663018338",
+					  "name":"$this->_site->SITENAME"
+				    }
+					</script></div>
+      <nav class="nav thirteen columns ">
+        <ul id="nav" class="menu_count_6 wp-menu"><li id="menu_873052" class="first  lb_873052 menu-item-home"><a href="https://www.shiatsu-dorn-straub.ch/" target="_self" title="Shiatsu und Dorn" data-pageid="873052" data-act="canvas" data-itemid="927539" data-cat="0">Shiatsu und Dorn</a> </li><li id="menu_900127" class=" lb_900127 menu-item-toppage"><a href="https://www.shiatsu-dorn-straub.ch/impressionen.shtml" target="_self" title="Behandlung und Angebot" data-pageid="900127" data-act="canvas" data-itemid="952889" data-cat="0">Behandlung und Angebot</a> </li><li id="menu_1010606" class=" lb_1010606 menu-item-toppage"><a href="https://www.shiatsu-dorn-straub.ch/preise.shtml" target="_self" title="Preise" data-pageid="1010606" data-act="canvas" data-itemid="1063408" data-cat="0">Preise</a> </li><li id="menu_900128" class=" lb_900128 menu-item-toppage"><a href="https://www.shiatsu-dorn-straub.ch/uber-uns.shtml" target="_self" title="Über mich" data-pageid="900128" data-act="canvas" data-itemid="952890" data-cat="0">Über mich</a> </li><li id="menu_900129" class=" lb_900129 menu-item-toppage"><a href="https://www.shiatsu-dorn-straub.ch/kontakt.shtml" target="_self" title="Kontakt" data-pageid="900129" data-act="canvas" data-itemid="952891" data-cat="0">Kontakt</a> </li></ul> 
+      </nav>
+
+    <!-- START HEADER IMAGE -->
+      <div id="header-image" class="sixteen columns ">
+        <div class="headerimage">
+          <div id="header-image-wrapper-1"><img src="var/m_8/80/807/254720/11507894-02E41917.jpg" id="siteMainDynHeaderImage1" style="border:0px" /></div>        </div>
+         
+      </div>
+      <!-- END HEADER IMAGE -->
+      <div id="content" class="sixteen columns">
+        <!-- START CONTENT -->
+        <div class="content-data"> 
+        	<div id="searchResults"></div>
+          <div id="wp_content_data"><blockquote>
+<h1><strong>! Achtung, nachstehende Cookie-Richtlinie ist eine unverbindliche Empfehlung, geeignet f&uuml;r die Standard-Konfiguration Ihrer HomepageTool Webseite. Unter Umst&auml;nden sammelt Ihre Webseite noch weitere, hier nicht aufgelistete Cookies u.a. von Drittanbietern. Bitte &uuml;berpr&uuml;fen Sie Ihre Webseite selbst&auml;ndig (mit </strong><a href="https://www.ghostery.com/" target="_blank">Ghostery</a><strong> oder </strong><a href="https://www.eff.org/privacybadger" target="_blank">Privacy Badger</a><strong>) oder/und konsultieren Sie einen Fachexperten.</strong></h1>
+</blockquote>
+
+<h2><strong>Cookie-Richtlinie Meine Webseite</strong></h2>
+
+<p>Letztes Update: <span class="marker"><strong>{Datum}</strong></span></p>
+
+<p>Diese Cookie-Richtlinie erl&auml;utert, wie <span class="marker"><strong>{Ihre Firma}</strong> </span>(„<strong>Meine Webseite</strong>“, „wir“, „uns“ oder „unser“) Cookies und &auml;hnliche Technologien verwendet, um Sie wiederzuerkennen, wenn Sie unsere Website besuchen und unsere Software verwenden (die „Dienste“). Sie erkl&auml;rt, worum es sich bei diesen Technologien handelt und warum wir sie verwenden, und erl&auml;utert Ihre Rechte, um die Verwendung dieser Technologien zu kontrollieren.</p>
+
+<h3> </h3>
+
+<h3><strong>Was sind Cookies?</strong></h3>
+
+<p>Ein Cookie ist eine kleine Datei, die eine Zeichenkette enth&auml;lt, die an Ihren Computer gesendet wird, wenn Sie eine Website aufrufen. Wenn Sie die Website erneut aufrufen, kann diese Ihren Browser mithilfe des Cookies wiedererkennen. Cookies k&ouml;nnen Benutzereinstellungen und andere Informationen speichern. Cookies stellen eine Komfort-Funktion dar, die Ihnen Zeit sparen soll und dem Webserver mitteilt, dass Sie auf eine bestimmte Seite zur&uuml;ckgekehrt sind.  Wenn Sie auf diese Website zur&uuml;ckkehren, k&ouml;nnen die Informationen, die Sie vorher bereitgestellt haben, wieder abgerufen werden, so dass Sie ganz einfach die kundenspezifischen Funktionen der Website verwenden k&ouml;nnen.</p>
+
+<p>Cookies, wie wir sie bei der Verwendung unserer Dienste setzen, heissen „Cookies von Erstanbietern“. Cookies, die von anderen gesetzt werden, heissen „Cookies von Drittanbietern“. Drittanbieter-Cookies erm&ouml;glichen die Bereitstellung von Funktionen Dritter, die auf der oder &uuml;ber die Website bereitgestellt werden (z. B. Werbung, interaktive Inhalte und Analysen). Die Anbieter, die diese Drittanbieter-Cookies setzen, k&ouml;nnen Ihren Computer sowohl beim Besuch der betreffenden Website als auch beim Besuch bestimmter anderer Websites erkennen.</p>
+
+<h3> </h3>
+
+<h3><strong>Warum verwenden wir Cookies?</strong></h3>
+
+<p>Wir verwenden aus mehreren Gr&uuml;nden Erstanbieter- und Drittanbieter-Cookies. Einige Cookies sind aus technischen Gr&uuml;nden erforderlich daf&uuml;r, dass unsere Dienste funktionieren. Wir bezeichnen diese als „notwendige“ Cookies. Andere Cookies erm&ouml;glichen es uns, die Interessen unserer User nachzuvollziehen, um deren Erfahrung bei der Verwendung unserer Dienste zu verbessern. Beispielsweise verfolgen wir die Websites und die Seiten, die Sie innerhalb von <strong>Meine Webseite </strong>besuchen, um festzustellen, welcher Teil der Dienste am beliebtesten ist oder am h&auml;ufigsten verwendet wird. Diese Daten werden verwendet, um Kunden, deren Verhalten anzeigt, dass sie sich f&uuml;r einen bestimmten Themenbereich interessieren, innerhalb unserer Dienste kundenspezifischen Content und Werbung bereitzustellen. Drittanbieter setzen &uuml;ber unsere Dienste Cookies f&uuml;r Werbung, Analysen und andere Zwecke. Dies wird im Folgenden n&auml;her beschrieben.</p>
+
+<p> </p>
+
+<h3><strong>Welche Arten von Cookies verwenden wir und wie verwenden wir sie?</strong></h3>
+
+<p>Die spezifischen Typen von Erst- und Drittanbieter-Cookies, die &uuml;ber unsere Dienste gesetzt werden und die Zwecke, die sie erf&uuml;llen. Zu diesen Cookies geh&ouml;ren:</p>
+
+<ul>
+	<li><strong>Notwendige Website-Cookies</strong>: Diese Cookies sind unbedingt notwendig, um Ihnen die Services zur Verf&uuml;gung zu stellen, die &uuml;ber unsere Dienste verf&uuml;gbar sind, und um einige ihrer Funktionen zu nutzen, z. B. den Zugang zu den sicheren Bereichen.</li>
+	<li><strong>Cookies f&uuml;r Analyse und individuelle Einstellungen</strong>: Diese Cookies sammeln Informationen, die entweder in zusammengefasster Form verwendet werden, damit wir besser nachvollziehen k&ouml;nnen, wie unsere Dienste genutzt werden oder wie effektiv unsere Marketingkampagnen sind, oder um uns dabei zu helfen, unsere Dienste f&uuml;r Sie anzupassen. Google Analytics: _utma | _utmb | _utmc | _utmv | _utmz werden verwendet, um Daten zum Verhalten der Besucher auf unserer Website zu erheben. Wir nutzen diese Informationen zur Erstellung von Berichten und zur Verbesserung der Website.</li>
+	<li><strong>Social-Network-Cookies</strong>: Diese Cookies erm&ouml;glichen es Ihnen, Seiten und Inhalte in unseren Diensten, die Sie interessant finden, auf sozialen Netzwerken von Drittanbietern und anderen Websites zu teilen. Diese Cookies k&ouml;nnen auch f&uuml;r Werbezwecke verwendet werden.</li>
+	<li><strong>Sitzungs-Cookie</strong>: PHPSESSID. Dieses Cookie wird von Anwendungen generiert, die auf der Sprache PHP basieren. Hierbei handelt es sich um einen allgemeinen Identifikator, mit dem die Variablen einer User-Session beibehalten werden. Normalerweise ist dies eine per Zufallsgenerator erzeugte Zahl, die seitenspezifisch verwendet wird. Ein gutes Beispiel ist die Aufrechterhaltung der Anmeldung eines Users beim Wechsel zu anderen Seiten.</li>
+	<li><strong>Spracherkennung</strong>: page_lang. Mit diesem Cookie wird die Sprache des Users der Website erkannt.</li>
+	<li><span class="marker"><em><strong>Hinweis zu Online Shop und Social Media</strong>: <strong>Falls Ihre Website zus&auml;tzliche Cookies f&uuml;r bestimmte Zwecke verwendet, m&uuml;ssen Sie in dieser Liste allenfalls weitere Cookies auff&uuml;hren</strong>.</em></span></li>
+</ul>
+
+<p> </p>
+
+<h3><strong>Wie kann ich Cookies kontrollieren?</strong></h3>
+
+<p>Sie k&ouml;nnen entscheiden, ob Sie Cookies akzeptieren oder ablehnen. Sie k&ouml;nnen Cookie-Einstellungen vornehmen, indem Sie auf die entsprechenden Opt-Out-Links unten klicken. Sie k&ouml;nnen die Steuerelemente Ihres Webbrowsers so einstellen oder &auml;ndern, dass Cookies akzeptiert oder abgelehnt werden. Wenn Sie Cookies ablehnen m&ouml;chten, k&ouml;nnen Sie unsere Dienste weiterhin nutzen, doch Ihr Zugriff auf einige Funktionen und Bereiche unserer Website kann dann eingeschr&auml;nkt sein. Da die M&ouml;glichkeit, Cookies &uuml;ber die Steuerelemente Ihres Webbrowsers abzulehnen, von Browser zu Browser unterschiedlich ist, sollten Sie im Hilfemen&uuml; Ihres Browsers nach weiteren Informationen suchen.</p>
+
+<p>Dar&uuml;ber hinaus bieten Ihnen die meisten Werbenetzwerke die M&ouml;glichkeit, gezielte Werbung abzulehnen, und auf vielen Websites finden Sie eine kurze Beschreibung, wie Sie dort Cookies deaktivieren k&ouml;nnen. Um mehr &uuml;ber Cookies zu erfahren und zu sehen, welche Cookies gesetzt wurden, besuchen Sie <a href="http://www.aboutcookies.org/" target="_blank">www.aboutcookies.org</a> oder <a href="http://www.allaboutcookies.org/" target="_blank">www.allaboutcookies.org</a>. Einige Websites besch&auml;ftigen sich damit, wie speziell in der EU ans&auml;ssige Personen Cookies ablehnen k&ouml;nnen, zum Beispiel <a href="http://www.youronlinechoices.eu/" target="_blank">http://www.youronlinechoices.eu</a>. Bitte beachten Sie, dass dies nicht bedeutet, dass Sie keine Werbung erhalten. Allgemeine Werbung werden Sie weiterhin erhalten.</p>
+
+<p>Um zu verhindern, dass Sie auf allen Websites von Google Analytics &uuml;berwacht werden, besuchen Sie <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>.<br />
+Um zu verhindern, dass Sie von AddThis &uuml;berwacht werden, besuchen Sie <a href="http://www.addthis.com/privacy/opt-out">http://www.addthis.com/privacy/opt-out</a>.</p>
+
+<p>Wenn Sie gar keine Cookies erhalten m&ouml;chten, erm&ouml;glichen die meisten Internetbrowser die Ablehnung von Cookies. In den meisten F&auml;llen k&ouml;nnen Sie die Website trotzdem im kompletten Umfang nutzen. Erfahren Sie, wie Sie in g&auml;ngigen Browsern Cookies verwalten: <a href="https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank">Google Chrome</a>, <a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank">Microsoft Edge</a>, <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank">Mozilla Firefox</a>, <a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a>, <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank">Opera</a>, <a href="https://support.apple.com/kb/ph21411?locale=en_US" target="_blank">Apple Safari</a>.</p>
+
+<p><strong>Notwendige Website-Cookies: </strong>Da diese Cookies unbedingt erforderlich sind, um Ihnen die Websites bereitzustellen, k&ouml;nnen Sie sie nicht ablehnen. Sie k&ouml;nnen sie jedoch blockieren oder l&ouml;schen, indem Sie wie oben beschrieben Ihre Browsereinstellungen &auml;ndern.</p>
+
+<p> </p>
+
+<h3><strong>Drittanbieter Cookies und Tracking Technologien</strong></h3>
+
+<table border="0" cellpadding="0.2em" cellspacing="0.2em" width="100%">
+	<tbody>
+		<tr bgcolor="#fafafa">
+			<td style="width:auto;height:42px;"><em><strong>L&ouml;sung</strong></em></td>
+			<td style="width:auto;height:42px;"><em><strong>Type/ Zweck</strong></em></td>
+			<td style="width:auto;height:42px;"><em><strong>Provider</strong></em></td>
+			<td style="width:auto;height:42px;"><em><strong>Adresse</strong></em></td>
+			<td style="width:auto;height:42px;"><em><strong>Datenschutz / Opt-out</strong></em></td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:40px;"><strong>Google Analytics</strong></td>
+			<td style="width:auto;height:40px;">Web Analytics</td>
+			<td style="width:auto;height:40px;">Google Inc.</td>
+			<td style="width:auto;height:40px;">1600 Amphitheatre Parkway Mountain View, CA 94043 USA</td>
+			<td style="width:auto;height:40px;">
+			<p><a href="http://www.google.com/intl/de/analytics/privacyoverview.html" target="_blank">> Privacy</a></p>
+
+			<p><a href="https://tools.google.com/dlpage/gaoptout" target="_blank">> Opt-out</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:20px;"><strong>Google maps</strong></td>
+			<td style="width:auto;height:20px;">Web Maps</td>
+			<td style="width:auto;height:20px;">Google Inc.</td>
+			<td style="width:auto;height:20px;">1600 Amphitheatre Parkway Mountain View, CA 94043 USA</td>
+			<td style="width:auto;height:20px;">
+			<p><a href="http://www.google.com/intl/de/analytics/privacyoverview.html" target="_blank">> Privacy</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:20px;"><strong>AddThis</strong></td>
+			<td style="width:auto;height:20px;">Web Tools</td>
+			<td style="width:auto;height:20px;">Oracle Inc</td>
+			<td style="width:auto;height:20px;">500 Oracle Parkway Redwood Shores, CA 94065 USA</td>
+			<td style="width:auto;height:20px;">
+			<p><a href="http://www.addthis.com/privacy/privacy-policy/" target="_blank">> Privacy</a></p>
+
+			<p><a href="http://www.addthis.com/privacy/opt-out" target="_blank">> Opt-out</a> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:20px;"><strong>YouTube</strong></td>
+			<td style="width:auto;height:20px;">Web Video</td>
+			<td style="width:auto;height:20px;">Google Inc.</td>
+			<td style="width:auto;height:20px;"> 1600 Amphitheatre Parkway Mountain View, CA 94043 USA</td>
+			<td style="width:auto;height:20px;">
+			<p><a href="https://www.youtube.com/intl/en-GB/yt/about/policies/#community-guidelines" target="_blank">> Privacy</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:20px;"><strong>Facebook</strong></td>
+			<td style="width:auto;height:20px;">Facebook Like, Comments, Feed</td>
+			<td style="width:auto;height:20px;">Facebook Inc.</td>
+			<td style="width:auto;height:20px;">
+			<p>1601 Willow Road, Menlo Park, California 94025 USA</p>
+			</td>
+			<td style="width:auto;height:20px;">
+			<p><a href="https://www.facebook.com/about/privacy/update" target="_blank">> Privacy</a></p>
+
+			<p><a href="https://developers.facebook.com/docs/plugins" target="_blank">> Plugins </a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:14px;"><strong>Ecwid</strong></td>
+			<td style="width:auto;height:14px;">eCommerce</td>
+			<td style="width:auto;height:14px;">Ecwid</td>
+			<td style="width:auto;height:14px;">144 West D Street Suite 103 Encinitas, CA 92024 USA</td>
+			<td style="width:auto;height:14px;">
+			<p><a href="https://www.ecwid.com/privacy-policy" target="_blank">> Privacy</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:auto;height:4px;"><strong>Twitter</strong></td>
+			<td style="width:auto;height:4px;">Follow Us</td>
+			<td style="width:auto;height:4px;">Facebook Inc</td>
+			<td style="width:auto;height:4px;"> 1601 Willow Road, Menlo Park, California 94025 USA </td>
+			<td style="width:auto;height:4px;">
+			<p><a href="https://twitter.com/privacy?lang=en" target="_blank">> Privacy</a></p>
+
+			<p><a href="https://twitter.com/about/resources/buttons" target="_blank">> Plugins</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<h3><strong>Updates der Richtlinie</strong></h3>
+
+<p>Wir werden diese Cookie-Richtlinie m&ouml;glicherweise von Zeit zu Zeit aktualisieren, um beispielsweise &Auml;nderungen an den von uns verwendeten Cookies abzubilden, oder aus anderen betrieblichen, rechtlichen oder regulatorischen Gr&uuml;nden. Bitte besuchen Sie daher diese Cookie-Richtlinie regelm&auml;ssig, um &uuml;ber die Verwendung von Cookies und verwandten Technologien auf dem Laufenden zu bleiben.</p>
+
+<p>Das oben in dieser Cookie-Richtlinie genannte Datum gibt an, wann sie zuletzt aktualisiert wurde.</p>
+
+<p> </p>
+
+<h3><strong>Wo kann ich weitere Informationen erhalten?</strong></h3>
+
+<p>Falls Sie Fragen zur Verwendung von Cookies oder anderen Technologien haben, senden Sie uns bitte eine E-Mail an <strong>claudia.straub@gmx.ch</strong></p>
+
+
+
+
+
+</div>        </div>  
+        <!-- END CONTENT -->
+      </div>
+
+      <div class="footer sixteen columns">
+        <div class="mirrormenu"><ul id="mirror-menu-module"><li id="mirror_menu_td_873052" class="mirror_menu"><a href="http://www.shiatsu-dorn-straub.ch/" target="_self" title="Shiatsu und Dorn" data-pageid="873052" data-act="canvas" data-itemid="927539" data-cat="0">Shiatsu und Dorn</a></li><li id="mirror_menu_td_900127" class="mirror_menu"><a href="http://www.shiatsu-dorn-straub.ch/impressionen.shtml" target="_self" title="Behandlung und Angebot" data-pageid="900127" data-act="canvas" data-itemid="952889" data-cat="0">Behandlung und Angebot</a></li><li id="mirror_menu_td_1010606" class="mirror_menu"><a href="http://www.shiatsu-dorn-straub.ch/preise.shtml" target="_self" title="Preise" data-pageid="1010606" data-act="canvas" data-itemid="1063408" data-cat="0">Preise</a></li><li id="mirror_menu_td_900128" class="mirror_menu"><a href="http://www.shiatsu-dorn-straub.ch/uber-uns.shtml" target="_self" title="Über mich" data-pageid="900128" data-act="canvas" data-itemid="952890" data-cat="0">Über mich</a></li><li id="mirror_menu_td_900129" class="mirror_menu"><a href="http://www.shiatsu-dorn-straub.ch/kontakt.shtml" target="_self" title="Kontakt" data-pageid="900129" data-act="canvas" data-itemid="952891" data-cat="0">Kontakt</a></li></ul></div>
+        <div class="clearfix">
+          <div class="footer-text"><p><a class='policies' href='cookie-de'>Richtlinien zu Cookies</a>  </p>
+</div>
+        </div>
+        <div class="languages">
+                  </div>
+      </div>
+  </div>
+		
+									    <div id="cookies_policy" class="cookie-container">
+				<div class="cookie-wrapper">
+			        <div class="cookie-policy-title">Cookie-Richtlinie</div>   
+			        <div class="cookie-statement">Ein Cookie ist eine kleine Textdatei, die eine Website auf Ihrem Computer oder Mobilgerät speichert, wenn Sie die Seite besuchen.</br>
+Wir verwenden proprietäre und Drittanbieter-Cookies, um Ihr Erlebnis sowie unsere Dienste zu verbessern und analysieren hierfür die Nutzung unserer Website.</br>
+Indem Sie auf "AKZEPTIEREN" klicken oder auf dieser Seite navigieren, akzeptieren Sie die Platzierung und Nutzung von Cookies für diese Zwecke.</br>
+Um mehr über unsere Cookies zu erfahren, besuchen Sie bitte unsere  <a id="opener" href="cookie-de#">Cookie-Richtlinie</a>
+			        </div>
+			        		        	
+						<div class="cookie-consent">
+							<div class="cookie-options">						
+								<div class="js-cookie-adjust">									        
+									<input type="checkbox" id="necessary" checked="checked" disabled="disabled"></input>
+									<label for="necessary">Notwendige Cookies</label>
+									<div class="cookie-statement-adjust">Diese Cookies sind notwendig, um auf der Website surfen und ihre Funktionen nutzen zu können. Ohne diese Cookies können von Ihnen gewünschte Dienste nicht angeboten werden. </div>
+									<input type="checkbox" id="others"  ></input>
+									<label for="others">Optionale Cookies</label>
+									<div class="cookie-statement-adjust">Diese Cookies sind tendenziell weniger wichtig für die Funktionsfähigkeit der Website. Sie ermöglichen der Seite, sich Ihre Entscheidungen zu merken und Ihnen so bessere Funktionen sowie individuelle Features anbieten zu können. Sie werden eventuell auch dazu verwendet, um Ihre Zugriffe auf unsere Seiten zu messen. </div>
+								</div>
+																<button class="adjust-cookie-button" onclick="adjustCookies('STANDARDEINSTELLUNGEN VERWENDEN')">COOKIE-EINSTELLUNGEN ANPASSEN								</button>
+								<button class="cookie-button" onclick="setCookiePolicy()">AKZEPTIEREN</button>     			
+							</div>
+						</div>
+								        
+			    </div>  
+		    </div>	
+		    <div class="cookie-text-wrapper js-cookie-text" title="Cookie-Richtlinie">
+		       <div class="cookie-text">
+			       	<div class="cookie-close js-cookie-close">&times;</div>
+			       	<div class="cookie-text-content">
+			       					       	</div>
+		       </div>
+            </div>
+
+                                
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "LocalBusiness",
+	"url": "https://www.shiatsu-dorn-straub.ch",
+	"name": "Meine Webseite",
+	"email": "claudia.straub@gmx.ch",
+	"address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "",
+	    "addressRegion": "",
+	    "addressCountry":"",
+	    "postalCode":"",
+	    "streetAddress": ""
+	                },
+	"telephone": "+41796925373",
+	"fax": "",
+	"image": "/var/m_8/80/807/254720/11509637-new_image1637697704.h100.png?1663018338"
+}
+</script>
+
+	
+<script type="text/javascript">
+    //<!--
+    var sid = 254720;    //-->
+</script>
+<script type="text/javascript" src="js/cookies_policy.min.js@v=7.3.44996.1"></script><script type="text/javascript">
+    //<!--
+    
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	var gaSettings = {
+	  siteOwnerTrackingCode: false,
+		resellerTrackingCode: false,
+		resellerTrackerName: 'resellerTracker',
+		siteOwnerTrackerName: 'siteOwnerTracker'
+	};	
+  
+ 
+  
+      gaSettings.resellerTrackingCode = true;
+        ga('create', 'UA-65453061-1', 'auto', {'name': gaSettings.resellerTrackerName});  
+    ga(gaSettings.resellerTrackerName+'.send', 'pageview');
+
+     
+
+    //-->
+</script>
+</body>
+</html>
